@@ -1,0 +1,14 @@
+{
+  "name": "webmaster-api",
+  "version": "1.0.0",
+  "description": "A node-js wrapper for the Bing Webmaster API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Wong",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
