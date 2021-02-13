@@ -5,13 +5,13 @@ This is a Node.js wrapper for the [Bing Webmaster API](https://docs.microsoft.co
 ## Installation
 
 ```console
-foo@bar:~$ npm install WebmasterAPI --save
+foo@bar:~$ npm install webmaster-api --save
 ```
 
 ## Usage
 
 ```JavaScript
-var WebmasterAPI = require('WebmasterAPI');
+var WebmasterAPI = require('webmaster-api');
 
 WebmasterAPI.init("your API key");
 
